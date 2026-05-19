@@ -9,7 +9,7 @@ def generate_random_test_cases(num_cases: int = 100) -> list:
         client_profile = {
             "risk_category": random.choice(risk_categories),
             "client_id": f"CLI{i+1:04d}",
-            "is_vip": random.random() < 0.2 # 20% de chance de ser VIP
+            "is_vip": random.random() < 0.2 # 20% chance of being VIP
         }
         loan_amount = round(random.uniform(500.00, 10000.00), 2)
         loan_term_months = random.randint(3, 36)
@@ -23,12 +23,12 @@ def generate_random_test_cases(num_cases: int = 100) -> list:
 
 
 if __name__ == "__main__":
-    # Gerar 100 casos de teste aleatórios
+    # Generate 100 random test cases
     cases = generate_random_test_cases(100)
 
-    # Salvar os casos de teste em um arquivo JSON
+    # Save the test cases to a JSON file
     output_file = "test_cases.json"
     with open(output_file, "w") as f:
         json.dump(cases, f, indent=4)
 
-    print(f"{len(cases)} casos de teste gerados e salvos em {output_file}")
+    print(f"{len(cases)} test cases generated and saved in {output_file}")

@@ -1,110 +1,110 @@
 [
     {
         "client_profile": {
-            "risk_category": "B",
+            "risk_category": "C",
             "client_id": "CLI0001",
             "is_vip": false
         },
-        "loan_amount": 9559.76,
-        "loan_term_months": 9
+        "loan_amount": 2356.55,
+        "loan_term_months": 3
     },
     {
         "client_profile": {
             "risk_category": "A",
             "client_id": "CLI0002",
-            "is_vip": true
+            "is_vip": false
         },
-        "loan_amount": 3230.85,
-        "loan_term_months": 11
+        "loan_amount": 9405.61,
+        "loan_term_months": 18
     },
     {
         "client_profile": {
             "risk_category": "A",
             "client_id": "CLI0003",
-            "is_vip": false
+            "is_vip": true
         },
-        "loan_amount": 7956.49,
-        "loan_term_months": 36
-    },
-    {
-        "client_profile": {
-            "risk_category": "B",
-            "client_id": "CLI0004",
-            "is_vip": false
-        },
-        "loan_amount": 4471.9,
-        "loan_term_months": 32
+        "loan_amount": 5344.24,
+        "loan_term_months": 27
     },
     {
         "client_profile": {
             "risk_category": "C",
-            "client_id": "CLI0005",
-            "is_vip": true
-        },
-        "loan_amount": 8690.19,
-        "loan_term_months": 22
-    },
-    {
-        "client_profile": {
-            "risk_category": "B",
-            "client_id": "CLI0006",
+            "client_id": "CLI0004",
             "is_vip": false
         },
-        "loan_amount": 3345.95,
+        "loan_amount": 3436.05,
         "loan_term_months": 9
     },
     {
         "client_profile": {
             "risk_category": "B",
-            "client_id": "CLI0007",
-            "is_vip": false
+            "client_id": "CLI0005",
+            "is_vip": true
         },
-        "loan_amount": 5242.24,
-        "loan_term_months": 25
+        "loan_amount": 3982.56,
+        "loan_term_months": 19
+    },
+    {
+        "client_profile": {
+            "risk_category": "B",
+            "client_id": "CLI0006",
+            "is_vip": true
+        },
+        "loan_amount": 2957.91,
+        "loan_term_months": 22
     },
     {
         "client_profile": {
             "risk_category": "A",
-            "client_id": "CLI0008",
-            "is_vip": true
+            "client_id": "CLI0007",
+            "is_vip": false
         },
-        "loan_amount": 6227.41,
-        "loan_term_months": 29
+        "loan_amount": 2508.64,
+        "loan_term_months": 22
     },
     {
         "client_profile": {
             "risk_category": "B",
+            "client_id": "CLI0008",
+            "is_vip": false
+        },
+        "loan_amount": 5290.51,
+        "loan_term_months": 34
+    },
+    {
+        "client_profile": {
+            "risk_category": "C",
             "client_id": "CLI0009",
             "is_vip": false
         },
-        "loan_amount": 4135.83,
-        "loan_term_months": 11
+        "loan_amount": 4363.93,
+        "loan_term_months": 33
     },
     {
         "client_profile": {
-            "risk_category": "B",
+            "risk_category": "C",
             "client_id": "CLI0010",
-            "is_vip": false
+            "is_vip": true
         },
-        "loan_amount": 1828.22,
+        "loan_amount": 5074.7,
         "loan_term_months": 32
     },
     {
         "client_profile": {
-            "risk_category": "A",
+            "risk_category": "C",
             "client_id": "CLI0011",
             "is_vip": false
         },
-        "loan_amount": 547.61,
-        "loan_term_months": 6
+        "loan_amount": 6278.33,
+        "loan_term_months": 16
     },
     {
         "client_profile": {
             "risk_category": "A",
             "client_id": "CLI0012",
-            "is_vip": true
+            "is_vip": false
         },
-        "loan_amount": 4081.54,
+        "loan_amount": 6485.77,
         "loan_term_months": 26
     },
     {
@@ -113,17 +113,17 @@
             "client_id": "CLI0013",
             "is_vip": false
         },
-        "loan_amount": 9534.68,
-        "loan_term_months": 20
+        "loan_amount": 2468.6,
+        "loan_term_months": 14
     },
     {
         "client_profile": {
-            "risk_category": "A",
+            "risk_category": "C",
             "client_id": "CLI0014",
-            "is_vip": true
+            "is_vip": false
         },
-        "loan_amount": 6030.93,
-        "loan_term_months": 3
+        "loan_amount": 5105.15,
+        "loan_term_months": 14
     },
     {
         "client_profile": {
@@ -131,35 +131,35 @@
             "client_id": "CLI0015",
             "is_vip": false
         },
-        "loan_amount": 1407.54,
-        "loan_term_months": 15
+        "loan_amount": 6726.02,
+        "loan_term_months": 29
     },
     {
         "client_profile": {
             "risk_category": "B",
             "client_id": "CLI0016",
-            "is_vip": true
+            "is_vip": false
         },
-        "loan_amount": 1244.23,
-        "loan_term_months": 3
+        "loan_amount": 8646.1,
+        "loan_term_months": 8
     },
     {
         "client_profile": {
             "risk_category": "B",
             "client_id": "CLI0017",
-            "is_vip": false
+            "is_vip": true
         },
-        "loan_amount": 2594.01,
-        "loan_term_months": 14
+        "loan_amount": 5184.37,
+        "loan_term_months": 24
     },
     {
         "client_profile": {
             "risk_category": "B",
             "client_id": "CLI0018",
-            "is_vip": false
+            "is_vip": true
         },
-        "loan_amount": 7198.35,
-        "loan_term_months": 35
+        "loan_amount": 7869.39,
+        "loan_term_months": 29
     },
     {
         "client_profile": {
@@ -167,17 +167,17 @@
             "client_id": "CLI0019",
             "is_vip": false
         },
-        "loan_amount": 8037.12,
-        "loan_term_months": 21
+        "loan_amount": 9895.0,
+        "loan_term_months": 32
     },
     {
         "client_profile": {
-            "risk_category": "A",
+            "risk_category": "C",
             "client_id": "CLI0020",
             "is_vip": false
         },
-        "loan_amount": 7768.45,
-        "loan_term_months": 13
+        "loan_amount": 6936.78,
+        "loan_term_months": 6
     },
     {
         "client_profile": {
@@ -185,44 +185,44 @@
             "client_id": "CLI0021",
             "is_vip": true
         },
-        "loan_amount": 3312.01,
-        "loan_term_months": 33
+        "loan_amount": 8733.7,
+        "loan_term_months": 25
     },
     {
         "client_profile": {
             "risk_category": "A",
             "client_id": "CLI0022",
-            "is_vip": false
-        },
-        "loan_amount": 8432.67,
-        "loan_term_months": 20
-    },
-    {
-        "client_profile": {
-            "risk_category": "C",
-            "client_id": "CLI0023",
             "is_vip": true
         },
-        "loan_amount": 1230.43,
-        "loan_term_months": 17
-    },
-    {
-        "client_profile": {
-            "risk_category": "A",
-            "client_id": "CLI0024",
-            "is_vip": false
-        },
-        "loan_amount": 9930.14,
-        "loan_term_months": 9
+        "loan_amount": 7892.46,
+        "loan_term_months": 14
     },
     {
         "client_profile": {
             "risk_category": "B",
-            "client_id": "CLI0025",
-            "is_vip": true
+            "client_id": "CLI0023",
+            "is_vip": false
         },
-        "loan_amount": 3087.79,
-        "loan_term_months": 21
+        "loan_amount": 2323.78,
+        "loan_term_months": 29
+    },
+    {
+        "client_profile": {
+            "risk_category": "C",
+            "client_id": "CLI0024",
+            "is_vip": false
+        },
+        "loan_amount": 4514.87,
+        "loan_term_months": 22
+    },
+    {
+        "client_profile": {
+            "risk_category": "C",
+            "client_id": "CLI0025",
+            "is_vip": false
+        },
+        "loan_amount": 9850.74,
+        "loan_term_months": 36
     },
     {
         "client_profile": {
@@ -230,26 +230,26 @@
             "client_id": "CLI0026",
             "is_vip": false
         },
-        "loan_amount": 7294.65,
-        "loan_term_months": 11
+        "loan_amount": 4527.54,
+        "loan_term_months": 27
     },
     {
         "client_profile": {
-            "risk_category": "B",
+            "risk_category": "C",
             "client_id": "CLI0027",
-            "is_vip": true
+            "is_vip": false
         },
-        "loan_amount": 1706.46,
+        "loan_amount": 8614.65,
         "loan_term_months": 34
     },
     {
         "client_profile": {
             "risk_category": "A",
             "client_id": "CLI0028",
-            "is_vip": false
+            "is_vip": true
         },
-        "loan_amount": 3941.82,
-        "loan_term_months": 36
+        "loan_amount": 5595.35,
+        "loan_term_months": 3
     },
     {
         "client_profile": {
@@ -257,17 +257,17 @@
             "client_id": "CLI0029",
             "is_vip": false
         },
-        "loan_amount": 3659.23,
-        "loan_term_months": 21
+        "loan_amount": 4196.62,
+        "loan_term_months": 27
     },
     {
         "client_profile": {
-            "risk_category": "B",
+            "risk_category": "A",
             "client_id": "CLI0030",
-            "is_vip": false
+            "is_vip": true
         },
-        "loan_amount": 4137.91,
-        "loan_term_months": 28
+        "loan_amount": 5744.45,
+        "loan_term_months": 25
     },
     {
         "client_profile": {
@@ -275,8 +275,8 @@
             "client_id": "CLI0031",
             "is_vip": true
         },
-        "loan_amount": 2473.02,
-        "loan_term_months": 14
+        "loan_amount": 3474.28,
+        "loan_term_months": 24
     },
     {
         "client_profile": {
@@ -284,8 +284,8 @@
             "client_id": "CLI0032",
             "is_vip": false
         },
-        "loan_amount": 4277.64,
-        "loan_term_months": 28
+        "loan_amount": 893.46,
+        "loan_term_months": 19
     },
     {
         "client_profile": {
@@ -293,8 +293,8 @@
             "client_id": "CLI0033",
             "is_vip": false
         },
-        "loan_amount": 7059.16,
-        "loan_term_months": 6
+        "loan_amount": 8849.0,
+        "loan_term_months": 29
     },
     {
         "client_profile": {
@@ -302,35 +302,35 @@
             "client_id": "CLI0034",
             "is_vip": true
         },
-        "loan_amount": 5017.92,
-        "loan_term_months": 20
+        "loan_amount": 9708.87,
+        "loan_term_months": 22
+    },
+    {
+        "client_profile": {
+            "risk_category": "B",
+            "client_id": "CLI0035",
+            "is_vip": false
+        },
+        "loan_amount": 6270.17,
+        "loan_term_months": 36
     },
     {
         "client_profile": {
             "risk_category": "C",
-            "client_id": "CLI0035",
-            "is_vip": false
-        },
-        "loan_amount": 4173.81,
-        "loan_term_months": 19
-    },
-    {
-        "client_profile": {
-            "risk_category": "A",
             "client_id": "CLI0036",
             "is_vip": false
         },
-        "loan_amount": 7152.74,
-        "loan_term_months": 23
+        "loan_amount": 9468.41,
+        "loan_term_months": 20
     },
     {
         "client_profile": {
-            "risk_category": "A",
+            "risk_category": "B",
             "client_id": "CLI0037",
             "is_vip": false
         },
-        "loan_amount": 8000.33,
-        "loan_term_months": 6
+        "loan_amount": 816.52,
+        "loan_term_months": 11
     },
     {
         "client_profile": {
@@ -338,8 +338,8 @@
             "client_id": "CLI0038",
             "is_vip": false
         },
-        "loan_amount": 1875.9,
-        "loan_term_months": 22
+        "loan_amount": 6664.73,
+        "loan_term_months": 26
     },
     {
         "client_profile": {
@@ -347,71 +347,71 @@
             "client_id": "CLI0039",
             "is_vip": true
         },
-        "loan_amount": 6572.03,
-        "loan_term_months": 31
-    },
-    {
-        "client_profile": {
-            "risk_category": "B",
-            "client_id": "CLI0040",
-            "is_vip": false
-        },
-        "loan_amount": 3781.63,
-        "loan_term_months": 30
+        "loan_amount": 9701.75,
+        "loan_term_months": 4
     },
     {
         "client_profile": {
             "risk_category": "C",
+            "client_id": "CLI0040",
+            "is_vip": true
+        },
+        "loan_amount": 1037.03,
+        "loan_term_months": 19
+    },
+    {
+        "client_profile": {
+            "risk_category": "A",
             "client_id": "CLI0041",
             "is_vip": false
         },
-        "loan_amount": 7930.55,
-        "loan_term_months": 3
+        "loan_amount": 6797.78,
+        "loan_term_months": 26
     },
     {
         "client_profile": {
             "risk_category": "A",
             "client_id": "CLI0042",
+            "is_vip": true
+        },
+        "loan_amount": 5769.98,
+        "loan_term_months": 13
+    },
+    {
+        "client_profile": {
+            "risk_category": "B",
+            "client_id": "CLI0043",
             "is_vip": false
         },
-        "loan_amount": 1654.97,
-        "loan_term_months": 17
+        "loan_amount": 9652.44,
+        "loan_term_months": 24
+    },
+    {
+        "client_profile": {
+            "risk_category": "B",
+            "client_id": "CLI0044",
+            "is_vip": false
+        },
+        "loan_amount": 9368.24,
+        "loan_term_months": 24
     },
     {
         "client_profile": {
             "risk_category": "A",
-            "client_id": "CLI0043",
+            "client_id": "CLI0045",
             "is_vip": false
         },
-        "loan_amount": 4433.85,
-        "loan_term_months": 7
+        "loan_amount": 2680.78,
+        "loan_term_months": 16
     },
     {
         "client_profile": {
             "risk_category": "C",
-            "client_id": "CLI0044",
-            "is_vip": false
-        },
-        "loan_amount": 8846.9,
-        "loan_term_months": 7
-    },
-    {
-        "client_profile": {
-            "risk_category": "B",
-            "client_id": "CLI0045",
+            "client_id": "CLI0046",
             "is_vip": true
         },
-        "loan_amount": 8730.8,
-        "loan_term_months": 10
-    },
-    {
-        "client_profile": {
-            "risk_category": "B",
-            "client_id": "CLI0046",
-            "is_vip": false
-        },
-        "loan_amount": 1241.71,
-        "loan_term_months": 32
+        "loan_amount": 6238.1,
+        "loan_term_months": 3
     },
     {
         "client_profile": {
@@ -419,26 +419,26 @@
             "client_id": "CLI0047",
             "is_vip": false
         },
-        "loan_amount": 5727.31,
-        "loan_term_months": 24
-    },
-    {
-        "client_profile": {
-            "risk_category": "B",
-            "client_id": "CLI0048",
-            "is_vip": false
-        },
-        "loan_amount": 7127.18,
+        "loan_amount": 3830.36,
         "loan_term_months": 31
     },
     {
         "client_profile": {
             "risk_category": "C",
-            "client_id": "CLI0049",
-            "is_vip": false
+            "client_id": "CLI0048",
+            "is_vip": true
         },
-        "loan_amount": 6713.26,
-        "loan_term_months": 5
+        "loan_amount": 7076.03,
+        "loan_term_months": 4
+    },
+    {
+        "client_profile": {
+            "risk_category": "C",
+            "client_id": "CLI0049",
+            "is_vip": true
+        },
+        "loan_amount": 6704.14,
+        "loan_term_months": 21
     },
     {
         "client_profile": {
@@ -446,17 +446,17 @@
             "client_id": "CLI0050",
             "is_vip": false
         },
-        "loan_amount": 3790.84,
-        "loan_term_months": 10
+        "loan_amount": 9050.06,
+        "loan_term_months": 17
     },
     {
         "client_profile": {
-            "risk_category": "A",
+            "risk_category": "B",
             "client_id": "CLI0051",
-            "is_vip": true
+            "is_vip": false
         },
-        "loan_amount": 8673.24,
-        "loan_term_months": 17
+        "loan_amount": 1159.32,
+        "loan_term_months": 24
     },
     {
         "client_profile": {
@@ -464,25 +464,25 @@
             "client_id": "CLI0052",
             "is_vip": false
         },
-        "loan_amount": 4936.74,
-        "loan_term_months": 17
-    },
-    {
-        "client_profile": {
-            "risk_category": "C",
-            "client_id": "CLI0053",
-            "is_vip": true
-        },
-        "loan_amount": 569.48,
-        "loan_term_months": 32
+        "loan_amount": 6802.12,
+        "loan_term_months": 21
     },
     {
         "client_profile": {
             "risk_category": "B",
-            "client_id": "CLI0054",
-            "is_vip": true
+            "client_id": "CLI0053",
+            "is_vip": false
         },
-        "loan_amount": 5697.45,
+        "loan_amount": 3787.08,
+        "loan_term_months": 22
+    },
+    {
+        "client_profile": {
+            "risk_category": "A",
+            "client_id": "CLI0054",
+            "is_vip": false
+        },
+        "loan_amount": 7456.37,
         "loan_term_months": 30
     },
     {
@@ -491,116 +491,116 @@
             "client_id": "CLI0055",
             "is_vip": false
         },
-        "loan_amount": 709.42,
-        "loan_term_months": 19
-    },
-    {
-        "client_profile": {
-            "risk_category": "C",
-            "client_id": "CLI0056",
-            "is_vip": true
-        },
-        "loan_amount": 8132.78,
-        "loan_term_months": 13
+        "loan_amount": 9770.92,
+        "loan_term_months": 11
     },
     {
         "client_profile": {
             "risk_category": "A",
-            "client_id": "CLI0057",
+            "client_id": "CLI0056",
             "is_vip": false
         },
-        "loan_amount": 9500.87,
-        "loan_term_months": 32
+        "loan_amount": 8731.2,
+        "loan_term_months": 5
     },
     {
         "client_profile": {
             "risk_category": "C",
+            "client_id": "CLI0057",
+            "is_vip": true
+        },
+        "loan_amount": 4472.22,
+        "loan_term_months": 33
+    },
+    {
+        "client_profile": {
+            "risk_category": "B",
             "client_id": "CLI0058",
             "is_vip": false
         },
-        "loan_amount": 7794.79,
+        "loan_amount": 8066.66,
+        "loan_term_months": 18
+    },
+    {
+        "client_profile": {
+            "risk_category": "B",
+            "client_id": "CLI0059",
+            "is_vip": false
+        },
+        "loan_amount": 9957.65,
+        "loan_term_months": 10
+    },
+    {
+        "client_profile": {
+            "risk_category": "A",
+            "client_id": "CLI0060",
+            "is_vip": false
+        },
+        "loan_amount": 3477.75,
         "loan_term_months": 36
     },
     {
         "client_profile": {
             "risk_category": "C",
-            "client_id": "CLI0059",
+            "client_id": "CLI0061",
             "is_vip": false
         },
-        "loan_amount": 6680.08,
+        "loan_amount": 5612.06,
+        "loan_term_months": 36
+    },
+    {
+        "client_profile": {
+            "risk_category": "A",
+            "client_id": "CLI0062",
+            "is_vip": true
+        },
+        "loan_amount": 3288.58,
+        "loan_term_months": 5
+    },
+    {
+        "client_profile": {
+            "risk_category": "A",
+            "client_id": "CLI0063",
+            "is_vip": true
+        },
+        "loan_amount": 587.53,
         "loan_term_months": 25
     },
     {
         "client_profile": {
             "risk_category": "C",
-            "client_id": "CLI0060",
-            "is_vip": true
-        },
-        "loan_amount": 6766.23,
-        "loan_term_months": 14
-    },
-    {
-        "client_profile": {
-            "risk_category": "A",
-            "client_id": "CLI0061",
-            "is_vip": false
-        },
-        "loan_amount": 5934.71,
-        "loan_term_months": 26
-    },
-    {
-        "client_profile": {
-            "risk_category": "C",
-            "client_id": "CLI0062",
-            "is_vip": false
-        },
-        "loan_amount": 2739.93,
-        "loan_term_months": 31
-    },
-    {
-        "client_profile": {
-            "risk_category": "C",
-            "client_id": "CLI0063",
-            "is_vip": false
-        },
-        "loan_amount": 6707.54,
-        "loan_term_months": 31
-    },
-    {
-        "client_profile": {
-            "risk_category": "B",
             "client_id": "CLI0064",
             "is_vip": false
         },
-        "loan_amount": 7464.34,
-        "loan_term_months": 9
+        "loan_amount": 7578.3,
+        "loan_term_months": 27
     },
     {
         "client_profile": {
             "risk_category": "A",
             "client_id": "CLI0065",
-            "is_vip": true
+            "is_vip": false
         },
-        "loan_amount": 7960.11,
-        "loan_term_months": 28
+        "loan_amount": 8340.58,
+        "loan_term_months": 24
+    },
+    {
+        "client_profile": {
+            "risk_category": "C",
+            "client_id": "CLI0066",
+            "is_vip": false
+        },
+        "loan_amount": 8497.86,
+        "loan_term_months": 15
     },
     {
         "client_profile": {
             "risk_category": "B",
-            "client_id": "CLI0066",
-            "is_vip": false
-        },
-        "loan_amount": 8354.87,
-        "loan_term_months": 9
-    },
-    {
-        "client_profile": {
-            "risk_category": "A",
             "client_id": "CLI0067",
             "is_vip": true
         },
-        "loan_amount": 6108.0,
-        "loan_term_months": 5
+        "loan_amount": 6485.63,
+        "loan_term_months": 29
     },
     {
         "client_profile": {
@@ -608,17 +608,17 @@
             "client_id": "CLI0068",
             "is_vip": false
         },
-        "loan_amount": 2035.35,
-        "loan_term_months": 14
+        "loan_amount": 7084.15,
+        "loan_term_months": 27
     },
     {
         "client_profile": {
-            "risk_category": "C",
+            "risk_category": "B",
             "client_id": "CLI0069",
             "is_vip": false
         },
-        "loan_amount": 4242.4,
-        "loan_term_months": 11
+        "loan_amount": 1790.64,
+        "loan_term_months": 28
     },
     {
         "client_profile": {
@@ -626,71 +626,71 @@
             "client_id": "CLI0070",
             "is_vip": false
         },
-        "loan_amount": 9107.63,
-        "loan_term_months": 27
-    },
-    {
-        "client_profile": {
-            "risk_category": "B",
-            "client_id": "CLI0071",
-            "is_vip": false
-        },
-        "loan_amount": 1269.74,
-        "loan_term_months": 25
+        "loan_amount": 6517.16,
+        "loan_term_months": 32
     },
     {
         "client_profile": {
             "risk_category": "A",
+            "client_id": "CLI0071",
+            "is_vip": false
+        },
+        "loan_amount": 9739.94,
+        "loan_term_months": 16
+    },
+    {
+        "client_profile": {
+            "risk_category": "C",
             "client_id": "CLI0072",
             "is_vip": false
         },
-        "loan_amount": 2878.57,
-        "loan_term_months": 17
+        "loan_amount": 4098.07,
+        "loan_term_months": 24
     },
     {
         "client_profile": {
             "risk_category": "C",
             "client_id": "CLI0073",
-            "is_vip": true
+            "is_vip": false
         },
-        "loan_amount": 2725.38,
-        "loan_term_months": 28
+        "loan_amount": 8664.26,
+        "loan_term_months": 30
     },
     {
         "client_profile": {
-            "risk_category": "B",
+            "risk_category": "A",
             "client_id": "CLI0074",
-            "is_vip": false
+            "is_vip": true
         },
-        "loan_amount": 7131.41,
-        "loan_term_months": 15
+        "loan_amount": 6365.0,
+        "loan_term_months": 31
     },
     {
         "client_profile": {
             "risk_category": "A",
             "client_id": "CLI0075",
-            "is_vip": true
-        },
-        "loan_amount": 8065.29,
-        "loan_term_months": 3
-    },
-    {
-        "client_profile": {
-            "risk_category": "C",
-            "client_id": "CLI0076",
             "is_vip": false
         },
-        "loan_amount": 894.66,
-        "loan_term_months": 32
+        "loan_amount": 618.69,
+        "loan_term_months": 21
     },
     {
         "client_profile": {
             "risk_category": "B",
-            "client_id": "CLI0077",
-            "is_vip": true
+            "client_id": "CLI0076",
+            "is_vip": false
         },
-        "loan_amount": 8693.68,
-        "loan_term_months": 36
+        "loan_amount": 5087.58,
+        "loan_term_months": 6
+    },
+    {
+        "client_profile": {
+            "risk_category": "A",
+            "client_id": "CLI0077",
+            "is_vip": false
+        },
+        "loan_amount": 7502.52,
+        "loan_term_months": 33
     },
     {
         "client_profile": {
@@ -698,125 +698,125 @@
             "client_id": "CLI0078",
             "is_vip": true
         },
-        "loan_amount": 3272.48,
-        "loan_term_months": 7
+        "loan_amount": 3140.88,
+        "loan_term_months": 18
     },
     {
         "client_profile": {
             "risk_category": "A",
             "client_id": "CLI0079",
-            "is_vip": true
-        },
-        "loan_amount": 5279.07,
-        "loan_term_months": 31
-    },
-    {
-        "client_profile": {
-            "risk_category": "C",
-            "client_id": "CLI0080",
             "is_vip": false
         },
-        "loan_amount": 9375.19,
-        "loan_term_months": 33
-    },
-    {
-        "client_profile": {
-            "risk_category": "C",
-            "client_id": "CLI0081",
-            "is_vip": true
-        },
-        "loan_amount": 718.47,
-        "loan_term_months": 9
-    },
-    {
-        "client_profile": {
-            "risk_category": "A",
-            "client_id": "CLI0082",
-            "is_vip": false
-        },
-        "loan_amount": 5626.0,
+        "loan_amount": 1519.64,
         "loan_term_months": 25
     },
     {
         "client_profile": {
             "risk_category": "A",
-            "client_id": "CLI0083",
-            "is_vip": true
-        },
-        "loan_amount": 5791.12,
-        "loan_term_months": 30
-    },
-    {
-        "client_profile": {
-            "risk_category": "A",
-            "client_id": "CLI0084",
+            "client_id": "CLI0080",
             "is_vip": false
         },
-        "loan_amount": 6026.78,
+        "loan_amount": 4234.47,
         "loan_term_months": 16
     },
     {
         "client_profile": {
+            "risk_category": "A",
+            "client_id": "CLI0081",
+            "is_vip": false
+        },
+        "loan_amount": 3597.54,
+        "loan_term_months": 20
+    },
+    {
+        "client_profile": {
+            "risk_category": "A",
+            "client_id": "CLI0082",
+            "is_vip": true
+        },
+        "loan_amount": 6330.7,
+        "loan_term_months": 31
+    },
+    {
+        "client_profile": {
             "risk_category": "B",
+            "client_id": "CLI0083",
+            "is_vip": false
+        },
+        "loan_amount": 9482.9,
+        "loan_term_months": 3
+    },
+    {
+        "client_profile": {
+            "risk_category": "B",
+            "client_id": "CLI0084",
+            "is_vip": false
+        },
+        "loan_amount": 5119.39,
+        "loan_term_months": 31
+    },
+    {
+        "client_profile": {
+            "risk_category": "A",
             "client_id": "CLI0085",
             "is_vip": false
         },
-        "loan_amount": 8359.22,
-        "loan_term_months": 30
+        "loan_amount": 3435.71,
+        "loan_term_months": 34
     },
     {
         "client_profile": {
-            "risk_category": "B",
+            "risk_category": "A",
             "client_id": "CLI0086",
             "is_vip": false
         },
-        "loan_amount": 9992.28,
-        "loan_term_months": 9
+        "loan_amount": 4864.67,
+        "loan_term_months": 36
     },
     {
         "client_profile": {
-            "risk_category": "B",
+            "risk_category": "A",
             "client_id": "CLI0087",
-            "is_vip": true
-        },
-        "loan_amount": 1660.01,
-        "loan_term_months": 19
-    },
-    {
-        "client_profile": {
-            "risk_category": "B",
-            "client_id": "CLI0088",
             "is_vip": false
         },
-        "loan_amount": 1296.72,
+        "loan_amount": 3848.92,
         "loan_term_months": 14
     },
     {
         "client_profile": {
-            "risk_category": "B",
+            "risk_category": "A",
+            "client_id": "CLI0088",
+            "is_vip": false
+        },
+        "loan_amount": 1485.13,
+        "loan_term_months": 17
+    },
+    {
+        "client_profile": {
+            "risk_category": "C",
             "client_id": "CLI0089",
             "is_vip": false
         },
-        "loan_amount": 7648.53,
-        "loan_term_months": 6
+        "loan_amount": 2644.33,
+        "loan_term_months": 20
     },
     {
         "client_profile": {
             "risk_category": "C",
             "client_id": "CLI0090",
-            "is_vip": true
+            "is_vip": false
         },
-        "loan_amount": 1665.36,
-        "loan_term_months": 8
+        "loan_amount": 2217.67,
+        "loan_term_months": 26
     },
     {
         "client_profile": {
-            "risk_category": "A",
+            "risk_category": "B",
             "client_id": "CLI0091",
-            "is_vip": false
+            "is_vip": true
         },
-        "loan_amount": 1231.62,
-        "loan_term_months": 36
+        "loan_amount": 5345.32,
+        "loan_term_months": 9
     },
     {
         "client_profile": {
@@ -824,44 +824,44 @@
             "client_id": "CLI0092",
             "is_vip": false
         },
-        "loan_amount": 2185.69,
-        "loan_term_months": 21
+        "loan_amount": 9403.59,
+        "loan_term_months": 18
     },
     {
         "client_profile": {
             "risk_category": "A",
             "client_id": "CLI0093",
-            "is_vip": false
+            "is_vip": true
         },
-        "loan_amount": 2517.68,
-        "loan_term_months": 3
+        "loan_amount": 6923.49,
+        "loan_term_months": 30
     },
     {
         "client_profile": {
-            "risk_category": "A",
+            "risk_category": "C",
             "client_id": "CLI0094",
             "is_vip": false
         },
-        "loan_amount": 1200.68,
-        "loan_term_months": 26
-    },
-    {
-        "client_profile": {
-            "risk_category": "A",
-            "client_id": "CLI0095",
-            "is_vip": false
-        },
-        "loan_amount": 2328.47,
-        "loan_term_months": 20
+        "loan_amount": 7430.36,
+        "loan_term_months": 30
     },
     {
         "client_profile": {
             "risk_category": "B",
+            "client_id": "CLI0095",
+            "is_vip": false
+        },
+        "loan_amount": 2818.72,
+        "loan_term_months": 6
+    },
+    {
+        "client_profile": {
+            "risk_category": "C",
             "client_id": "CLI0096",
             "is_vip": false
         },
-        "loan_amount": 6262.06,
-        "loan_term_months": 6
+        "loan_amount": 8473.84,
+        "loan_term_months": 14
     },
     {
         "client_profile": {
@@ -869,34 +869,34 @@
             "client_id": "CLI0097",
             "is_vip": false
         },
-        "loan_amount": 6097.12,
-        "loan_term_months": 26
-    },
-    {
-        "client_profile": {
-            "risk_category": "A",
-            "client_id": "CLI0098",
-            "is_vip": false
-        },
-        "loan_amount": 3755.47,
-        "loan_term_months": 14
+        "loan_amount": 1516.9,
+        "loan_term_months": 27
     },
     {
         "client_profile": {
             "risk_category": "C",
-            "client_id": "CLI0099",
+            "client_id": "CLI0098",
             "is_vip": false
         },
-        "loan_amount": 1340.82,
-        "loan_term_months": 22
+        "loan_amount": 8893.72,
+        "loan_term_months": 31
     },
     {
         "client_profile": {
-            "risk_category": "B",
+            "risk_category": "A",
+            "client_id": "CLI0099",
+            "is_vip": false
+        },
+        "loan_amount": 4157.28,
+        "loan_term_months": 12
+    },
+    {
+        "client_profile": {
+            "risk_category": "A",
             "client_id": "CLI0100",
             "is_vip": false
         },
-        "loan_amount": 7332.21,
-        "loan_term_months": 11
+        "loan_amount": 1533.8,
+        "loan_term_months": 26
     }
 ]

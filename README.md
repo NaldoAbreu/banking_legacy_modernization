@@ -1,4 +1,4 @@
-# Banking Legacy Modernization 🏦💻
+# Banking Legacy Modernization: Data Engineering & Analytics 🏦💻
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)
 ![Testing](https://img.shields.io/badge/Testing-Golden%20Master-yellow)
@@ -30,7 +30,7 @@ We capture the exact behavior of the legacy system by running 1,000+ test cases 
 ### 2. Strategy Design Pattern
 We decoupled the interest calculation logic into specific strategies (Risk A, B, C, VIP), making the system compliant with the **Open/Closed Principle**.
 
-### 3. Data-Driven Validation (New!)
+### 3. Data-Driven Validation
 We use Python (Pandas/Seaborn) to analyze the generated data, ensuring that the modernization doesn't just match the output, but that the underlying financial distributions remain sound.
 
 ---
@@ -44,6 +44,10 @@ Validating how different risk categories are impacted by the calculation rules.
 ### Loan Amount vs Interest
 Analyzing the correlation and identifying outliers in the legacy calculation logic.
 ![Loan vs Interest](outputs/loan_vs_interest.png)
+
+### Implied Interest Rate by Term
+Visualizing the average interest rate applied based on the loan duration.
+![Rate by Term](outputs/rate_by_term.png)
 
 ---
 

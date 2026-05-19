@@ -11,10 +11,10 @@ if __name__ == "__main__":
     test_cases_file = "test_cases.json"
     golden_master_file = "golden_master_data.json"
 
-    print("\n--- Executando Teste de Regressão com a Nova Calculadora (Padrão Strategy) --- ")
-    # A função run_regression_test espera uma função que simule o cálculo.
-    # Passamos nossa função wrapper que usa a ModernInterestCalculator.
+    print("\n--- Running Regression Test with New Calculator (Strategy Pattern) --- ")
+    # The run_regression_test function expects a function that simulates the calculation.
+    # We pass our wrapper function that uses the ModernInterestCalculator.
     if run_regression_test(test_cases_file, golden_master_file, calculate_with_modern_calculator):
-        print("\nParabéns! A nova implementação com Padrão Strategy é compatível com o sistema legado.")
+        print("\nCongratulations! The new implementation with Strategy Pattern is compatible with the legacy system.")
     else:
-        print("\nATENÇÃO: A nova implementação com Padrão Strategy NÃO é compatível com o sistema legado.")
+        print("\nATTENTION: The new implementation with Strategy Pattern is NOT compatible with the legacy system.")
